@@ -1,0 +1,332 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.skip-to-content {
+	background-color: #0000cc;
+	border: 2px solid white;
+	color: white;
+	font-family: Microsoft Sans Serif;
+	left: -999px;
+	padding: 8px;
+	position: absolute;
+	text-decoration: none;
+	top: 5px;
+}
+
+.skip-to-content:focus{
+	left: 5px;
+}
+
+.footer {
+  background: #044BD9;
+  color: white;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+#twitter-logo {
+	float: left;
+	margin-left: 20px;
+	margin-right: 10px;
+	width: 3%;
+}
+
+#instagram-logo {
+	float: left;
+	margin-left: 5px;
+	width: 3%;
+}
+
+#facebook-logo {
+	float: left;
+	margin-left: 15px;
+	width: 3%;
+}
+
+.decoration-inicio {
+	text-decoration: none;
+}
+
+#menu ul {
+	background-color: #FFFFFF;
+	border: 1px solid #FF7B5A;
+	list-style: none;
+	margin: 0;
+}
+
+#menu ul li{
+	display: inline;
+	padding-left: 125px;
+	font-family: Microsoft Sans Serif;
+}
+
+#menu ul li a{
+	padding: 10px 10px;
+	display: inline-block;
+	color: black;
+	text-decoration: none;
+	font-family: Microsoft Sans Serif;
+}
+
+#menu ul li a:hover{
+	color: #ffffff;
+}
+
+.lista-menu{
+	font-size: 35px;
+}
+
+.lista-menu:hover{
+	background-color: #FF7B5A;
+}
+
+.imagens-inicio {
+	margin: 15px;
+	width: 23%; 
+}
+
+.main {
+	font-family: Arial;
+	font-size: 20px;
+	padding-left: 870px;
+	padding-right: 20px;
+}
+
+.noticias-inicio {
+	float: left;
+	height: 250px;
+	margin-left: 500px;
+	width: 20%;
+}
+
+.main-data {
+	font-weight: bold;
+	margin-left: 84%;
+}
+
+.noticias {
+	font-family: Arial;
+	font-size: 25px;
+	text-align: justify;
+}
+
+.texto-relacionado {
+	font-family: Arial;
+	font-size: 25px;
+	padding-right: 30px;
+	text-align: justify;
+}
+
+.ver-noticias {
+	border: 1px solid #044BD9;
+	font-family: Arial;
+	font-size: 25px;
+	text-align: center;
+	width: 250px;
+}
+
+.ver-noticias:hover {
+	background: #044BD9;
+	color: white;
+}
+
+.fotos-noticia {
+	height: 500px;
+	padding-left: 500px;
+	width: 60%;
+}
+
+.h2-titulo {
+	font-family: Arial;
+	font-size: 50px;
+	padding-left: 300px;
+	padding-right: 30px;
+	text-align: center;
+}
+
+.h2-sub-tema {
+	font-family: Arial;
+	padding-left: 650px;
+}
+
+.h2-sub-richard {
+	font-family: Arial;
+	padding-left: 610px;
+}
+
+.h2-sub-pompeo {
+	font-family: Arial;
+	padding-left: 590px;
+}
+
+.h2-sub-jackson {
+	font-family: Arial;
+	padding-left: 495px;
+}
+
+.h2-sub-atores {
+	font-family: Arial;
+	padding-left: 670px;
+}
+
+.h2-sub-foto {
+	font-family: Arial;
+	padding-left: 670px;
+}
+
+.conteudo-noticia {
+	font-family: Arial;
+	font-size: 150%;
+	padding-left: 400px;
+	padding-right: 60px;
+	text-align: justify;
+}
+
+.h2-sub-katherine {
+	font-family: Arial;
+	padding-left: 750px;
+}
+
+.h2-sub-merluca {
+	font-family: Arial;
+	padding-left: 610px;
+}
+
+.h2-sub-addison {
+	font-family: Arial;
+	padding-left: 575px;
+}
+
+.h2-sub-ellen {
+	font-family: Arial;
+	padding-left: 615px;
+}
+
+.pad-galeria {
+	margin-left: 410px;
+}
+
+.imagens-galeria {
+	margin-left: 90px;
+	width: 40%;
+}
+
+.h1-a-serie {
+	font-family: Arial;
+	font-size: 40px;
+	margin-left: 500px;
+}
+
+.h2-a-serie {
+	font-family: Arial;
+	font-size: 60%;
+	line-height: 45px;
+	margin-right: 50px;
+	padding-top: 15px;
+	text-align: justify;		
+}
+
+.h3-a-serie {
+	font-family: Arial;
+	font-size: 30px;
+}
+
+.contato {
+	height: 10%;
+	line-height: 50px;
+	margin-left: 450px;
+	margin-top: 50px;
+	width: 30%;
+}
+
+.nome {
+	font-family: Arial;
+	font-size: 30px;
+	margin-left: 50px;
+}
+
+.home-h1 {
+	font-family: Microsoft Sans Serif;
+	margin-left: 500px;
+}
+
+#h1-a-serie {
+	font-size: 150%;
+}
+
+#pro-style {
+	font-weight: bold;
+}
+
+
+#h1-episodios {
+	font-family: Microsoft Sans Serif;
+	font-size: 300%;
+	font-weight: bold;
+	margin-left: 55%;
+}
+
+#h1-galeria {
+	font-family: Microsoft Sans Serif;
+	font-size: 300%;
+	font-weight: bold;
+	margin-left: 56%;
+}
+
+#h1-galeria-epi {
+	font-family: Microsoft Sans Serif;
+	font-size: 300%;
+	font-weight: bold;
+	margin-left: 50%;
+}
+
+#h1-galeria-foto {
+	font-family: Microsoft Sans Serif;
+	font-size: 300%;
+	font-weight: bold;
+	margin-left: 45%;
+}
+
+#h1-sobre {
+	font-family: Microsoft Sans Serif;
+	font-size: 300%;
+	font-weight: bold;
+	margin-left: 50%;
+}
+
+.p-noticias {
+	font-family: Arial;
+	font-size: 100%;
+	line-height: 55px;
+	margin-right: 50px;
+	padding-top: 15px;
+	text-align: justify;
+}
+
+#spoiler {
+	font-weight: bold;
+}
+
+#contato-h1 {
+	font-family: Microsoft Sans Serif;
+	font-size: 250%;
+	font-weight: bold;
+	margin-left: 27%;
+}
+
+.div-spotify {
+	width: 70%;
+}
+
+
+
+
+
+
+
+
+
